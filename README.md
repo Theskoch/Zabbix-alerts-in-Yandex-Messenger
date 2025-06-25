@@ -15,6 +15,7 @@
    ![image](https://github.com/user-attachments/assets/dc8fa3d4-3dd4-4eb4-9ae9-736e2aa9b6e3)
 
    Message  =  {ALERT.MESSAGE}
+
    Subject  =  {ALERT.SUBJECT}
 
    To       =  {ALERT.SENDTO}
