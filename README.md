@@ -15,10 +15,12 @@
    ![image](https://github.com/user-attachments/assets/dc8fa3d4-3dd4-4eb4-9ae9-736e2aa9b6e3)
 
    Message  =  {ALERT.MESSAGE}
-
    Subject  =  {ALERT.SUBJECT}
+
    To       =  {ALERT.SENDTO}
+
    Token    =  ваш токен бота 
+
    URL      =  адрес отправки сообщений https://botapi.messenger.yandex.net/bot/v1/messages/sendText/
 
 3. В строку скрипт впишите скрипт лежащий в файле main.js. 
